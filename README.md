@@ -22,7 +22,7 @@ _All-in-one site showcasing what I do. Check it out to see my latest creations, 
 
 ## 📫 Connect with Me
 
-[![X/Twitter](https://img.shields.io/badge/X-%40k35o53k-1da1f2?logo=x&logoColor=white&style=flat-square)](https://x.com/k35o53k)
+[![X/Twitter](https://img.shields.io/badge/X-%40k8ome-1da1f2?logo=x&logoColor=white&style=flat-square)](https://x.com/k35o53k)
 
 ---
 
